@@ -4,10 +4,12 @@ A Python tool designed for our graph theory homework to make analyzing and visua
 
 ---
 
-## Group Members
+### Group Members
 
-* Daniel Pedrosaputra (NRP: `5025251171`) — Informatics, ITS
-* Ahmad Farras Favian Al Efasi — Informatics, ITS
+| No. | Name | NRP |
+|---:|---|---|
+| 1 | Ahmad Farras Favian Al Efasi | 5025251005 |
+| 2 | Daniel Pedrosaputra | 5025251171 |
 
 ---
 

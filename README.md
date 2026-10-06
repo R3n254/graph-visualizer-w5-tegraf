@@ -55,6 +55,5 @@ The application is hosted online, allowing anyone with the link to access and us
   2. "Help me write the Python code using Streamlit and NetworkX to take an adjacency matrix input and visualize the graph and spanning tree."
   3. "Fix this error: ModuleNotFoundError: No module named 'networkx' in Streamlit Cloud."
   4. "How do I deploy this Streamlit app to Streamlit Community Cloud?"
-  5. "Make a README file for the repository including our identities, prerequisites, how to run, and sample output."
 
 ---

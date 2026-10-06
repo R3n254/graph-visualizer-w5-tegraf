@@ -45,6 +45,12 @@ The application is hosted online, allowing anyone with the link to access and us
 ### Sample Output
 <img width="1974" height="966" alt="image" src="https://github.com/user-attachments/assets/e2a1fc9a-230c-4721-84fe-d2b1bc78a1e3" />
 
-## AI Disclosure
-
-We used Gemini to help us understand this graph theory task step by step, figure out how to build the code, and set up the Streamlit deployment.
+## AI Tools Usage Disclosure
+* **Tool**: Gemini
+* **Usage**: AI was used during the preparation of this assignment to understand project requirements, structure the Streamlit web application, debug deployment errors, and format the repository documentation.
+* **Prompts Used**:
+  1. "Explain to me how we should approach this Graph Theory task for the Fundamental Cycle Matrix and Cut-Set Matrix."
+  2. "Help me write the Python code using Streamlit and NetworkX to take an adjacency matrix input and visualize the graph and spanning tree."
+  3. "Fix this error: ModuleNotFoundError: No module named 'networkx' in Streamlit Cloud."
+  4. "How do I deploy this Streamlit app to Streamlit Community Cloud?"
+  5. "Make a README file for the repository including our identities, prerequisites, how to run, and sample output."

@@ -1,6 +1,6 @@
 # Graph Visualizer & Matrix Analyzer
 
-A Python application built as a group homework assignment for the Graph Theory course at Institut Teknologi Sepuluh Nopember. This tool takes graph representations through matrices, renders a visual model of the graph, and computes advanced topological matrices including the Fundamental Cycle Matrix and the Cut-Set Matrix.
+A Python tool designed for our graph theory homework to make analyzing and visualizing network structures a lot easier. Instead of calculating everything by hand, you can input an adjacency or incidence matrix, and the program will automatically generate a visual model of the graph. On top of that, it handles the heavier calculations for you, instantly computing both the Fundamental Cycle Matrix and the Cut-Set Matrix.
 
 ---
 

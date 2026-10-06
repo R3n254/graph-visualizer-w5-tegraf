@@ -44,3 +44,7 @@ The application is hosted online, allowing anyone with the link to access and us
 
 ### Sample Output
 <img width="1974" height="966" alt="image" src="https://github.com/user-attachments/assets/e2a1fc9a-230c-4721-84fe-d2b1bc78a1e3" />
+
+## AI Disclosure
+
+We used Gemini to help us understand this graph theory task step by step, figure out how to build the code, and set up the Streamlit deployment.

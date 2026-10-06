@@ -23,9 +23,8 @@ A Python tool designed for our graph theory homework to make analyzing and visua
 
 ---
 
-## Prerequisites
+## How to Access
 
-Ensure you have Python 3.8 or higher installed, along with the required libraries for graph calculations and plotting:
+The application is hosted online, allowing anyone with the link to access and use it directly in a web browser without local installation:
 
-```bash
-pip install networkx matplotlib numpy
+* **Live App URL**: [Graph Visualizer & Matrix Analyzer on Streamlit](https://graph-visualizer-w5-tegraf-t43pxpgczclcpj7y9duwpl.streamlit.app/)

@@ -23,8 +23,24 @@ A Python tool designed for our graph theory homework to make analyzing and visua
 
 ---
 
-## How to Access
+## How to Run / Access
 
 The application is hosted online, allowing anyone with the link to access and use it directly in a web browser without local installation:
 
 * **Live App URL**: [Graph Visualizer & Matrix Analyzer on Streamlit](https://graph-visualizer-w5-tegraf-t43pxpgczclcpj7y9duwpl.streamlit.app/)
+
+---
+
+## Sample Input & Output
+
+### Sample Input
+* **Graph Type**: Undirected Graph
+* **Adjacency Matrix Configuration** (Example for a 4-vertex complete or connected graph):
+  ```text
+  0 1 1 0
+  1 0 1 1
+  1 1 0 1
+  0 1 1 0
+
+### Sample Output
+<img width="1974" height="966" alt="image" src="https://github.com/user-attachments/assets/e2a1fc9a-230c-4721-84fe-d2b1bc78a1e3" />
